@@ -76,8 +76,8 @@ namespace OPP_Sem2_Week4_Q1_Q2_Q3
             Console.WriteLine("Week 4\n");
 
             // Exercise 1
-            //Exercise1 E1 = new(10); // This new OBJ is created when I execute my main method.
-            //E1.MultiplicationTable();
+            Exercise1 E1 = new(10); // This new OBJ is created when I execute my main method.
+            E1.MultiplicationTable();
 
             
             // Exercise 2
@@ -96,7 +96,8 @@ namespace OPP_Sem2_Week4_Q1_Q2_Q3
             }
 
 
-            //Exercise 3
+            // Exercise 3
+            // ?
         }
     }
 }
